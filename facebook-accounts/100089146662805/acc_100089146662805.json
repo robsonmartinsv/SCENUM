@@ -115,6 +115,18 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672813315392%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "04.01.2023 06:23 Farm (Registro)",
-	"code2fa": "NBTOVUBAZUTQYGSOGZXYJXHZ7GGHERFL"
+	"lastEventDate": "04.01.2023 06:25 Farm (Registro)",
+	"code2fa": "NBTOVUBAZUTQYGSOGZXYJXHZ7GGHERFL",
+	"recoveryCodes": [
+		"00077575",
+		"12776252",
+		"17141915",
+		"26225869",
+		"27391480",
+		"47705011",
+		"49211554",
+		"61003019",
+		"85031925",
+		"88975024"
+	]
 }
