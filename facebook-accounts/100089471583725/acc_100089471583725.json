@@ -7,23 +7,10 @@
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Maria Flor Santos",
-	"birthdate": "",
+	"birthdate": "2000 January 3",
 	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673725959,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1384x917"
-		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1707680695.247842,
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680896895.555482,
+			"expirationDate": 1680897259.897213,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00EcEGQ042XUjEA1X.AWWkSo50psZX2WJ4yMOKqQOs66c.Bjuct9.UE.AAA.0.0.BjucyA.AWXycfnxL38"
+			"value": "00EcEGQ042XUjEA1X.AWW3RMXsCQmeX_wkegFasG1i-Co.Bjuct9.UE.AAA.0.0.Bjuc3t.AWVXEaNdzHE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +99,21 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673121163478%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673121383589%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673726226,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1384x917"
 		}
 	],
-	"lastEventDate": "07.01.2023 19:54 Farm (Registro)"
+	"lastEventDate": "07.01.2023 19:57 Farm (Registro)"
 }
