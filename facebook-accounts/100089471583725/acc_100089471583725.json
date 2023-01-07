@@ -115,6 +115,18 @@
 			"value": "1384x917"
 		}
 	],
-	"lastEventDate": "07.01.2023 19:58 Farm (Registro)",
-	"code2fa": "PLPNZ3QWWZ4QEL57EBS3RZLBCGLXX4R7"
+	"lastEventDate": "07.01.2023 20:00 Farm (Registro)",
+	"code2fa": "PLPNZ3QWWZ4QEL57EBS3RZLBCGLXX4R7",
+	"recoveryCodes": [
+		"04619790",
+		"33400012",
+		"34197687",
+		"35258165",
+		"51240258",
+		"53109765",
+		"55501550",
+		"59163733",
+		"59406627",
+		"93823293"
+	]
 }
