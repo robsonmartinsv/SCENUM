@@ -76,20 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681773424.371017,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "077Zz0HLDkBTyLc2w.AWX3EpA1M-RZ2N6Pci_yP8GpTsc.BjxyxH.M_.AAA.0.0.Bjxyxx.AWUHwa6bazA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674602347,
+			"expirationDate": 1674602602,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -102,6 +89,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1681773695.741788,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "077Zz0HLDkBTyLc2w.AWV9YaEQ84TwcIbmeZM2lsvztbw.BjxyxH.M_.AAA.0.0.Bjxy2A.AWXqq2uC9xk"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673997540514%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673997797984%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -122,8 +122,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbYAxaykJmVDxMEFpCAp5P7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABa-s7m8DBYAABV-HBwYABgAFQQAABYBFgAWAAAWGgA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuQVWkhKGikw-qIiXMw6AVA_QC9LPVKw%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVABViNgAAFQAVajYAABUAFW42AAAVABV0NgAAFhQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221673997542%22%7D%2C%22d%22%3A%222bad192e-50e5-4e0e-92c9-43922c3bf552%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbIBBb82cP_AhMEFpCAp5P7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABa8t7m8DBYAABV-HBwYABgAFQQAABYBFgAWAAAWGgA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuQVWOEENFJx9U5QgxD4NWA_QC9LPVKw%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVABViNgAAFQAVajYAABUAFW42AAAVABV0NgAAFhQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221673997799%22%7D%2C%22d%22%3A%222bad192e-50e5-4e0e-92c9-43922c3bf552%22%2C%22s%22%3A%220%22%7D"
 		}
 	],
-	"lastEventDate": "17.01.2023 23:19 COMENTAR"
+	"lastEventDate": "17.01.2023 23:23 COMENTAR"
 }
