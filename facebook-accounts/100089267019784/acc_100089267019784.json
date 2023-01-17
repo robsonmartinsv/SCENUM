@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674602602,
+			"expirationDate": 1674602998,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681773695.741788,
+			"expirationDate": 1681774096.772253,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "077Zz0HLDkBTyLc2w.AWV9YaEQ84TwcIbmeZM2lsvztbw.BjxyxH.M_.AAA.0.0.Bjxy2A.AWXqq2uC9xk"
+			"value": "077Zz0HLDkBTyLc2w.AWWlefGGIhJBpnrDpRLGx0Uq8c0.BjxyxH.M_.AAA.0.0.Bjxy8R.AWXMBz9G7Fs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673997797984%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673998194351%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -122,8 +122,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbIBBb82cP_AhMEFpCAp5P7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABa8t7m8DBYAABV-HBwYABgAFQQAABYBFgAWAAAWGgA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuQVWOEENFJx9U5QgxD4NWA_QC9LPVKw%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVABViNgAAFQAVajYAABUAFW42AAAVABV0NgAAFhQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221673997799%22%7D%2C%22d%22%3A%222bad192e-50e5-4e0e-92c9-43922c3bf552%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbUBRb4nd-tDRMEFpCAp5P7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbavbm8DBYAABV-HBwYABgAFQQAABYBFgAWAAAWGgA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuQVWwLEFFJx9UBcsSD4NWA_QC9LPVKw%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVABViNgAAFQAVajYAABUAFW42AAAVABV0NgAAFhQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221673998195%22%7D%2C%22d%22%3A%222bad192e-50e5-4e0e-92c9-43922c3bf552%22%2C%22s%22%3A%220%22%7D"
 		}
 	],
-	"lastEventDate": "17.01.2023 23:26 COMENTAR"
+	"lastEventDate": "17.01.2023 23:30 POSTAR FEED"
 }
