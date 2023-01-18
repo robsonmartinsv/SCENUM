@@ -64,19 +64,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674611811,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "958x835"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1705542894.843683,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -90,7 +77,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681782893.843708,
+			"expirationDate": 1674614019,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "958x835"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681785110.993809,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0nf0Cx6TFg7RrNP1t.AWX3mxu6W3ma-oB-O-VGiLAwaLA.Bjx1Fv.M_.AAA.0.0.Bjx1Fv.AWX0fCeeC9M"
+			"value": "0nf0Cx6TFg7RrNP1t.AWU4o09Np5BJn1iG03aDlL6FX2s.Bjx1Fv.M_.AAA.0.0.Bjx1oX.AWU4e5Nhclk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674007006310%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674009215168%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -123,8 +123,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaCDxac7uqWAhMEFpCAp5P7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABawx7q8DBYAABV-HBwYABgAFQQWjoC-qbhhAAAWARYAFgAAFhoA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuQVbGIERFJx9kZQxCD4NWA_QC9LPVKw%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVABViNgAAFQAVajYAABUAFW42AAAVABV0NgAAFhQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221674007007%22%7D%2C%22d%22%3A%222bad192e-50e5-4e0e-92c9-43922c3bf552%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbEEhbksoSrDRMEFpCAp5P7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABby6bq8DBYAABV-HBwYABgAFQQAABYBFgAWAAAWGgA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAv7purwMJAAgFv7purwMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVABViNgAAFQAVajYAABUAFW42AAAVABV0NgAAFhQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221674009215%22%7D%2C%22d%22%3A%222bad192e-50e5-4e0e-92c9-43922c3bf552%22%2C%22s%22%3A%220%22%7D"
 		}
 	],
-	"lastEventDate": "18.01.2023 02:19 AQUECIMENTO ALEATÓRIO"
+	"lastEventDate": "18.01.2023 02:33 TESTAR APPROVE"
 }
