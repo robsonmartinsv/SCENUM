@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681787670.016513,
+			"expirationDate": 1681788240.890698,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,7 +86,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0d9ITzYJWFNiWkAD5.AWXxtxyl7RS3JgVR94broaf6xIQ.Bjx11v.M_.AAA.0.0.Bjx2QW.AWUA-K0KBTk"
+			"value": "0d9ITzYJWFNiWkAD5.AWVL2ICMKQEQkaJWJsELgmi9-Ws.Bjx11v.M_.AAA.0.0.Bjx2ZR.AWXwG9lYVRE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -98,7 +98,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674011785393%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674012356114%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -110,11 +110,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABauGBaQ5r2oDxMEFpCAp5P7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaGkru8DBYAABV-HEwAABYAFpSSu7wMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABaWkru8DBYAABWAARxMAAAWABaWkru8DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCaUkru8DBYAABUEFTomlJK7vAwWAAAVBBU8JpSSu7wMFgAAFQQVUiaUkru8DBYAABUEFWAmlJK7vAwWAAAVBBViJpSSu7wMFgAAFQQVaiaUkru8DBYAABUEFW4mlJK7vAwWAAAVBBV0JpSSu7wMFgAAFhQRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221674011786%22%7D%2C%22d%22%3A%222bad192e-50e5-4e0e-92c9-43922c3bf552%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbsGBb43YPSDRMEFpCAp5P7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABb8mru8DBYAABV-HEwAABYAFoibu7wMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABaKm7u8DBYAABWAARxMAAAWABaKm7u8DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCaKm7u8DBYAABUEFTomipu7vAwWAAAVBBU8Joqbu7wMFgAAFQQVUiaKm7u8DBYAABUEFWAmipu7vAwWAAAVBBViJoqbu7wMFgAAFQQVaiaKm7u8DBYAABUEFW4mipu7vAwWAAAVBBV0Joqbu7wMFgAAFhQRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221674012356%22%7D%2C%22d%22%3A%222bad192e-50e5-4e0e-92c9-43922c3bf552%22%2C%22s%22%3A%220%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674616608,
+			"expirationDate": 1674617179,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -123,8 +123,8 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1280x836"
+			"value": "1264x827"
 		}
 	],
-	"lastEventDate": "18.01.2023 03:16 RESPONDER"
+	"lastEventDate": "18.01.2023 03:26 RESPONDER"
 }
