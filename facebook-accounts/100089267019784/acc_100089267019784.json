@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674614019,
+			"expirationDate": 1674614212,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681785110.993809,
+			"expirationDate": 1681785310.26955,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0nf0Cx6TFg7RrNP1t.AWU4o09Np5BJn1iG03aDlL6FX2s.Bjx1Fv.M_.AAA.0.0.Bjx1oX.AWU4e5Nhclk"
+			"value": "0nf0Cx6TFg7RrNP1t.AWXWJuWyiOYz1qNN2kcok37xeTw.Bjx1Fv.M_.AAA.0.0.Bjx1re.AWXZ1C9A5jE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674009215168%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674009407769%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -123,8 +123,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbEEhbksoSrDRMEFpCAp5P7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABby6bq8DBYAABV-HBwYABgAFQQAABYBFgAWAAAWGgA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAv7purwMJAAgFv7purwMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVABViNgAAFQAVajYAABUAFW42AAAVABV0NgAAFhQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221674009215%22%7D%2C%22d%22%3A%222bad192e-50e5-4e0e-92c9-43922c3bf552%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABa2Exbax8yDDxMEFpCAp5P7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABb07Lq8DBYAABV-HBwYABgAFQQAABYBFgAWAAAWGgA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAoLturwMJAAgFoLturwMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVABViNgAAFQAVajYAABUAFW42AAAVABV0NgAAFhQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221674009409%22%7D%2C%22d%22%3A%222bad192e-50e5-4e0e-92c9-43922c3bf552%22%2C%22s%22%3A%220%22%7D"
 		}
 	],
-	"lastEventDate": "18.01.2023 02:34 TESTAR APPROVE"
+	"lastEventDate": "18.01.2023 02:36 TESTAR APPROVE"
 }
