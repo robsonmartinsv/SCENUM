@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "23.01.2023 19:46 AQUECIMENTO (IMPAR)",
+	"lastEventDate": "23.01.2023 19:49 AQUECIMENTO (IMPAR)",
 	"status": 2,
 	"id": "100089239104243",
 	"name": "",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682106196.063475,
+			"expirationDate": 1682279216.826669,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SmwQOR9zNZhppu5p.AWWGFy77-yGdvyUXqVpUQAJyjWw.Bjysq0.5-.AAA.0.0.BjzEBV.AWXmLjZI9mQ"
+			"value": "0SmwQOR9zNZhppu5p.AWVB1UHyPiZJHt0OaY1vfPZJ5oo.Bjysq0.5-.AAA.0.0.BjzuQw.AWXc449jfJQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674935131,
+			"expirationDate": 1675108177,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674330329840%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674503353039%2C%22v%22%3A1%7D"
 		}
 	]
 }
