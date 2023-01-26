@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 07:56 AQUECIMENTO (IMPAR)",
+	"lastEventDate": "26.01.2023 07:59 AQUECIMENTO (IMPAR)",
 	"status": 2,
 	"id": "100089843190644",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Angelica Machado",
 	"birthdate": "1990 June 10",
 	"country": "Brazil",
@@ -52,19 +52,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674675762.619652,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1706175053.321776,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682415056.199917,
+			"expirationDate": 1682495806.279282,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0MjVd5MNgzaYv4yHW.AWV5HYSaSnznK7Xhe-tSjDAMel4.Bj0PbO.If.AAA.0.0.Bj0PbR.AWX2uvfJfvo"
+			"value": "0MjVd5MNgzaYv4yHW.AWWZ2CheQbWF9UpLIH5ikBqgOaw.Bj0PbO.If.AAA.0.0.Bj0jI_.AWUf7cqcGyE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675244007,
+			"expirationDate": 1675324753,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -125,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674639183236%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674719929752%2C%22v%22%3A1%7D"
 		}
 	]
 }
