@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "11.02.2023 17:04 AQUECIMENTO (IMPAR)",
+	"lastEventDate": "11.02.2023 17:07 AQUECIMENTO (IMPAR)",
 	"status": 2,
 	"id": "100090288664044",
 	"name": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707413582.769716,
+			"expirationDate": 1707671088.982371,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707413582.769773,
+			"expirationDate": 1707671088.982417,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "7%3AkqwyZitw-dxxag%3A2%3A1675767491%3A-1%3A-1%3A%3AAcWUHirH0d848NvYWBciZm69KHCq0cNJlaCksYyaAA"
+			"value": "7%3AkqwyZitw-dxxag%3A2%3A1675767491%3A-1%3A-1%3A%3AAcVVqgzFqbUzEb-AIXSeix3w6B7iIUfbw08KnImaVA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683653581.769798,
+			"expirationDate": 1683911087.982438,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xBIebAJWnr4qKKvA.AWUJtp7Rf5hu-B1Oi2UY_S5Yz-o.Bj49zO.Ym.AAA.0.0.Bj49zO.AWX46XXVKpQ"
+			"value": "0WFRQajHVBiZp1hbF.AWXevDVgxJYY-s9d3yR07SfrT10.Bj58qy.Ym.AAA.0.0.Bj58qy.AWWJAjNHFRY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676740058,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "929x932"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,20 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675877733621%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676482557,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "929x887"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676135232075%2C%22v%22%3A1%7D"
 		}
 	]
 }
