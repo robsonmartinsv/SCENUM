@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.02.2023 20:50 AQUECIMENTO (PAR)",
+	"lastEventDate": "13.02.2023 20:53 AQUECIMENTO (PAR)",
 	"status": 2,
 	"id": "100089951447934",
 	"name": "",
@@ -39,20 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676310319.432566,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707672074.591821,
+			"expirationDate": 1707857452.03966,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707672074.591868,
+			"expirationDate": 1707857452.039736,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +61,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "24%3Ag9MgxCgKVtk_vQ%3A2%3A1675705516%3A-1%3A-1%3A%3AAcW4SWFBjHrpgyH7aKSC36R_O8IOmYHmhOhnbyiHDw"
+			"value": "24%3Ag9MgxCgKVtk_vQ%3A2%3A1675705516%3A-1%3A-1%3A%3AAcUBTmXiPWcHfD3RNHzIvPp3Jw68sEMURjQ4ZcGWXg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683912079.077214,
+			"expirationDate": 1684097457.495531,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "06w5FprJYv5BCnGU4.AWXt0oHFRWnmQ6mVRZj5yxIOpKw.Bj586L.md.AAA.0.0.Bj586Q.AWWLmJnBTi8"
+			"value": "0JTYBaE2uE0eEiDOX.AWUHXPRPRKIL1kL-x5JqF64Tvy4.Bj6qKs.md.AAA.0.0.Bj6qKz.AWU4ehIrBeM"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676741049,
+			"expirationDate": 1676926387,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -112,7 +99,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676136225601%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676321584938%2C%22v%22%3A1%7D"
 		}
 	]
 }
